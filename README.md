@@ -19,5 +19,5 @@
 
 | Paths | Links |
 | :---: | :---: |
-|  Cloud Computing  |  [FrontEnd](https://github.com/), [BackEnd](https://github.com/), [Crawler](https://github.com)  |
-|   Machine Learning  |   [Model]( https://github.com/RidwendDev/DeepLearningPro-SkinSight), [Dataset](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)  |
+|  Cloud Computing  |  [FrontEnd](https://github.com/ryanharahap/SAD-FrontEnd), [BackEnd](https://github.com/ryanharahap/SAD-BackEnd), [Crawler](https://github.com/ryanharahap/SAD-Crawler)  |
+|   Machine Learning  |   [Model]( https://github.com), [Dataset](https://www.kaggle.com)  |
